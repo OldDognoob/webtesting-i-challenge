@@ -64,7 +64,7 @@ describe("Your weapon get enhanced", () => {
   });
 
   it(
-    "should return the item as is with nothing changed because the" +
+    "should return the weapon as is with nothing changed because the" +
       " enhanced level is 0.",
     () => {
       expect(
